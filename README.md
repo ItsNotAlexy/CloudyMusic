@@ -52,3 +52,8 @@ await wavelink.NodePool.create_node(bot=self.bot,
 after your done with that, Install the requirements by running `pip install -r requirements.txt`
 
 After downloading the package you can now run the script with `python run.py` in the `CloudyMusic` directory.
+
+
+# Screenshoots
+![image](https://user-images.githubusercontent.com/101402577/210167424-6253f3f4-f64d-4a42-9c53-d7d85fbf6e53.png)
+
