@@ -1,0 +1,7 @@
+{
+    "SPOTIFY_CONFIG": {
+        "CLIENT_USER": "SPOTIFY_USER",
+        "CLIENT_ID": "SPOTIFY_CLIENT_ID",
+        "CLIENT_SECRET": "SPOTIFY_CLIENT_SECRET"
+    }
+}
